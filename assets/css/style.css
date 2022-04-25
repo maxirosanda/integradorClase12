@@ -60,7 +60,7 @@ a{
 }
 
 @media(orientation: landscape){
-    .barra-redes{
+    .navbar{
         background-color:#5900f3;
     }
 }
