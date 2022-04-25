@@ -58,3 +58,9 @@ a{
         display: none;
     }
 }
+
+@media(orientation: landscape){
+    .barra-redes{
+        background-color:#5900f3;
+    }
+}
